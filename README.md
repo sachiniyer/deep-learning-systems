@@ -1,4 +1,4 @@
-# ~[Deep Learning Systems Course](https://dlsyscourse.org/assignments/) (2024 version)~
+# [Deep Learning Systems Course](https://dlsyscourse.org/assignments/) (2024 version)
 - [x] 0
 - [x] 1
 - [x] 2
